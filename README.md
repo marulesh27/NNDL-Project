@@ -26,5 +26,8 @@ The dataset is sourced from **Kaggle**.
 ---
 
 ## 📂 Repository Structure
+📁 NNDL-Project
+│── salary_prediction.ipynb
+│── README.md
+│── salary.csv 
 
-# NNDL-Project
